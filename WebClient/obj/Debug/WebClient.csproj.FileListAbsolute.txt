@@ -1,0 +1,8 @@
+c:\users\grace.davies\documents\visual studio 2013\Projects\Doctors.Surgery.MVCClient\WebClient\bin\Debug\WebClient.dll
+c:\users\grace.davies\documents\visual studio 2013\Projects\Doctors.Surgery.MVCClient\WebClient\bin\Debug\WebClient.pdb
+c:\users\grace.davies\documents\visual studio 2013\Projects\Doctors.Surgery.MVCClient\WebClient\bin\Debug\Doctors.Surgery.Contracts.dll
+c:\users\grace.davies\documents\visual studio 2013\Projects\Doctors.Surgery.MVCClient\WebClient\bin\Debug\Newtonsoft.Json.dll
+c:\users\grace.davies\documents\visual studio 2013\Projects\Doctors.Surgery.MVCClient\WebClient\bin\Debug\Newtonsoft.Json.xml
+c:\users\grace.davies\documents\visual studio 2013\Projects\Doctors.Surgery.MVCClient\WebClient\obj\Debug\WebClient.csprojResolveAssemblyReference.cache
+c:\users\grace.davies\documents\visual studio 2013\Projects\Doctors.Surgery.MVCClient\WebClient\obj\Debug\WebClient.dll
+c:\users\grace.davies\documents\visual studio 2013\Projects\Doctors.Surgery.MVCClient\WebClient\obj\Debug\WebClient.pdb
